@@ -1,0 +1,12 @@
+c:\users\liltyrant\documents\visual studio 2012\Projects\MikeCrabtree_Assignment2\MikeCrabtree_Assignment2\bin\Debug\MikeCrabtree_Assignment2.exe.config
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\MikeCrabtree_Assignment2\MikeCrabtree_Assignment2\bin\Debug\MikeCrabtree_Assignment2.exe
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\MikeCrabtree_Assignment2\MikeCrabtree_Assignment2\bin\Debug\MikeCrabtree_Assignment2.pdb
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\MikeCrabtree_Assignment2\MikeCrabtree_Assignment2\obj\Debug\MikeCrabtree_Assignment2.Form1.resources
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\MikeCrabtree_Assignment2\MikeCrabtree_Assignment2\obj\Debug\MikeCrabtree_Assignment2.Properties.Resources.resources
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\MikeCrabtree_Assignment2\MikeCrabtree_Assignment2\obj\Debug\MikeCrabtree_Assignment2.csproj.GenerateResource.Cache
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\MikeCrabtree_Assignment2\MikeCrabtree_Assignment2\obj\Debug\MikeCrabtree_Assignment2.exe
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\MikeCrabtree_Assignment2\MikeCrabtree_Assignment2\obj\Debug\MikeCrabtree_Assignment2.pdb
+C:\Users\LilTyrant\documents\visual studio 2012\Projects\MikeCrabtree_Assignment2\MikeCrabtree_Assignment2\obj\Debug\MikeCrabtree_Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\MikeCrabtree_Assignment2_2\MikeCrabtree_Assignment2\bin\Debug\MikeCrabtree_Assignment2.exe.config
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\MikeCrabtree_Assignment2_2\MikeCrabtree_Assignment2\obj\Debug\MikeCrabtree_Assignment2.exe
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\MikeCrabtree_Assignment2_2\MikeCrabtree_Assignment2\obj\Debug\MikeCrabtree_Assignment2.pdb

@@ -1,0 +1,9 @@
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Jockey\MikeCrabtree_Assignment3\MikeCrabtree_Assignment3\bin\Debug\MikeCrabtree_Assignment3.exe.config
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Jockey\MikeCrabtree_Assignment3\MikeCrabtree_Assignment3\bin\Debug\MikeCrabtree_Assignment3.exe
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Jockey\MikeCrabtree_Assignment3\MikeCrabtree_Assignment3\bin\Debug\MikeCrabtree_Assignment3.pdb
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Jockey\MikeCrabtree_Assignment3\MikeCrabtree_Assignment3\obj\Debug\MikeCrabtree_Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Jockey\MikeCrabtree_Assignment3\MikeCrabtree_Assignment3\obj\Debug\MikeCrabtree_Assignment3.Form1.resources
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Jockey\MikeCrabtree_Assignment3\MikeCrabtree_Assignment3\obj\Debug\MikeCrabtree_Assignment3.Properties.Resources.resources
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Jockey\MikeCrabtree_Assignment3\MikeCrabtree_Assignment3\obj\Debug\MikeCrabtree_Assignment3.csproj.GenerateResource.Cache
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Jockey\MikeCrabtree_Assignment3\MikeCrabtree_Assignment3\obj\Debug\MikeCrabtree_Assignment3.exe
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Jockey\MikeCrabtree_Assignment3\MikeCrabtree_Assignment3\obj\Debug\MikeCrabtree_Assignment3.pdb

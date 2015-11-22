@@ -1,0 +1,9 @@
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Assignment1_MikeCrabtree\Assignment1_Stadium_Seating_Form\bin\Debug\Assignment1_Stadium_Seating_Form.exe.config
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Assignment1_MikeCrabtree\Assignment1_Stadium_Seating_Form\obj\Debug\Assignment1_Stadium_Seating_Form.exe
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Assignment1_MikeCrabtree\Assignment1_Stadium_Seating_Form\obj\Debug\Assignment1_Stadium_Seating_Form.pdb
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Assignment1_MikeCrabtree\Assignment1_Stadium_Seating_Form\bin\Debug\Assignment1_Stadium_Seating_Form.exe
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Assignment1_MikeCrabtree\Assignment1_Stadium_Seating_Form\bin\Debug\Assignment1_Stadium_Seating_Form.pdb
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Assignment1_MikeCrabtree\Assignment1_Stadium_Seating_Form\obj\Debug\Assignment1_Stadium_Seating_Form.Properties.Resources.resources
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Assignment1_MikeCrabtree\Assignment1_Stadium_Seating_Form\obj\Debug\Assignment1_MikeCrabtree.csproj.GenerateResource.Cache
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Assignment1_MikeCrabtree\Assignment1_Stadium_Seating_Form\obj\Debug\Assignment1_MikeCrabtree.csprojResolveAssemblyReference.cache
+C:\Users\LilTyrant\Documents\Visual Studio 2012\Projects\Assignment1_MikeCrabtree\Assignment1_Stadium_Seating_Form\obj\Debug\Assignment1_Stadium_Seating_Form.formStadiumSeating.resources
